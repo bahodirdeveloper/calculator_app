@@ -101,6 +101,7 @@ class _CalculatorUIState extends State<CalculatorUI> {
                     buttonText,
                     style: TextStyle(
                       fontSize: 30,
+
                       
                       fontWeight: FontWeight.bold,
                       color: Colors.white,
